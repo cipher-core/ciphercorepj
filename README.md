@@ -1,4 +1,4 @@
-# Cipher Core Project
+# Cipher Core (CIPHC) Project
 
 ## Introduction
 Provide a next generation evolutionary cash platform that can issue crypto token/coin which is regarded as the historical final form.
