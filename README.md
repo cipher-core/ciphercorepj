@@ -24,5 +24,11 @@ The key encryption technology developed by NTI Group can solve the long-recogniz
 ## Reference2:Crypto Cash
 "Crypto Cash", the world's first crypto cash, is a currency that uses a symbol strings as a pseudo tangible material (or entity) as a substitute to be exchanged when exchanging value, and as the cryptographic technology is completed, it was developed for the first time in the world as basic technology to issue legal tenders. Information of issuers and value of cash is uniquely associated with completely encrypted symbol strings, and this fact makes tampering, counterfeiting, false use impossible. By encrypting conditions such as credit information, usage conditions, interests, deadlines, crypto cash with various functions can be created. Since it is easy to send / save electronically, it can be issued as crypto metal money or crypto banknotes if it is engraved on metal or printed on papers because it does not matter about the recording medium.
 
+## Reference3:End to End Protection
+A method in which all data is encrypted immediately after information is generated and all data is decrypted immediately before information is used. Even if the communication is via a public line such as the Internet, if "End to End protection" that uses complete cipher is used, the threat that the communication information is stolen or falsified can be eliminated at all. Also, confidential information can be stored completely safely by using "End to End protection" and decrypting all the encrypted information after a while.
+
+## Reference4:Remote Synchronization
+Non-simultaneous synchronization between two points by applying the "identical artificial twin phenomenon" that outputs the same information by giving two completely identical artificial intelligence circuits the same environmental conditions and raising them at the remote points is realized. "Remote Synchronization" solves the encryption key transfer problem, which is the most important component of complete cipher.
+
 ## Official Homepage
 https://www.cipher-core.com/
